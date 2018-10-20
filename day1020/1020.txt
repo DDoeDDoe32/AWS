@@ -5,3 +5,11 @@ mysql -u user1 -p
 password : 1234
 
 mysql> show databases;
+
+환경변수
+MYSQL_HOME
+C:\Program Files\MySQL\MySQL Server 8.0
+
+Path
+%MYSQL_HOME%\bin
+
