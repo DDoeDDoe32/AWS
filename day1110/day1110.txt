@@ -6,3 +6,10 @@ tomcat 5.x
    download tomcat
    start tomcat
    simple.war
+
+哪腔泼
+ec2 能贾 积己
+Elastic Beanstalk 积己
+
+胶配府瘤
+S3 积己
