@@ -1,0 +1,8 @@
+tomcat 5.x
+1. jdk
+   download jdk 64bit linux
+   install jdk 64bit 
+2. tomcat zip
+   download tomcat
+   start tomcat
+   simple.war
